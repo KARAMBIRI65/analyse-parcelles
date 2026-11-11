@@ -1,0 +1,6 @@
+strategie,parcelles_achetees,dont_non_constructibles,gain_total_k€,gain_moyen_par_achat_€,taux_bonnes_affaires
+Tout acheter,1200,578,-19400.0,-16167.0,0.166
+Prix au m² bas,1005,577,-15359.0,-15283.0,0.161
+Règle PLU + prix bas,547,123,-6115.0,-11179.0,0.296
+Outil ML,128,38,1627.0,12711.0,0.664
+Oracle (maximum possible),199,0,3330.0,16731.0,1.0
